@@ -1,11 +1,11 @@
 package ufile_gosdk
 
 import (
-	"ufile-gosdk/bucketmgr"
-	"ufile-gosdk/filemgr"
+	"github.com/fsp1yjl/ufile-gosdk/bucketmgr"
+	"github.com/fsp1yjl/ufile-gosdk/filemgr"
 	"os"
 
-	"ufile-gosdk/uflog"
+	"github.com/fsp1yjl/ufile-gosdk/uflog"
 )
 
 type GoUfile struct {
