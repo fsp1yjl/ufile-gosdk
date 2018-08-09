@@ -2,9 +2,9 @@ package bucketmgr
 
 import (
 	"net/url"
-	"ufile-gosdk/common"
+	"github.com/fsp1yjl/ufile-gosdk/common"
 	"encoding/json"
-	"ufile-gosdk/uflog"
+	"github.com/fsp1yjl/ufile-gosdk/uflog"
 )
 
 type DescribeBucketResponse struct {

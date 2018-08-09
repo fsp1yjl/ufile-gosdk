@@ -11,7 +11,7 @@ import (
 	"time"
 	"io"
 	"bytes"
-	"ufile-gosdk/uflog"
+	"github.com/fsp1yjl/ufile-gosdk/uflog"
 	"fmt"
 )
 

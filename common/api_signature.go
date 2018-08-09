@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"crypto/sha1"
 	"strings"
-	"ufile-gosdk/uflog"
+	"github.com/fsp1yjl/ufile-gosdk/uflog"
 )
 
 func Signature(privatekey string, data url.Values) url.Values {
