@@ -3,7 +3,7 @@ package filemgr
 import (
 	"net/url"
 
-	"ufile-gosdk/common"
+	"github.com/fsp1yjl/ufile-gosdk/common"
 	"encoding/json"
 	"io/ioutil"
 	"ufile-gosdk/uflog"

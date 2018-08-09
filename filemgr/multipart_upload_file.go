@@ -1,7 +1,7 @@
 package filemgr
 
 import (
-	"ufile-gosdk/common"
+	"github.com/fsp1yjl/ufile-gosdk/common"
 	"io/ioutil"
 	"encoding/json"
 
@@ -14,7 +14,7 @@ import (
 	"time"
 	"fmt"
 
-	"ufile-gosdk/uflog"
+	"github.com/fsp1yjl/ufile-gosdk/uflog"
 )
 
 type MultipartUploadResponse struct {

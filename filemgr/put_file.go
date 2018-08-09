@@ -1,11 +1,11 @@
 package filemgr
 
 import (
-	"ufile-gosdk/common"
+	"github.com/fsp1yjl/ufile-gosdk/common"
 	"net/url"
 	"io/ioutil"
 	"encoding/json"
-	"ufile-gosdk/uflog"
+	"github.com/fsp1yjl/ufile-gosdk/uflog"
 	"fmt"
 )
 
